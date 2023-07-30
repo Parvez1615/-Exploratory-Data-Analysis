@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Exploratory Data Analysis on 'Diwali Sales Data' using Python and Jupyter Notebook.
+This project focuses on "Exploratory Data Analysis on 'Diwali Sales Data' using Python and Jupyter Notebook. It involves cleaning and filtering the data and conducting EDA on various factors, including Age, Gender, Occupation, State, and Marital Status. Python libraries like Pandas, Matplotlib, Seaborn, and NumPy are utilized to visualize and analyze sales data, providing valuable insights for the firm's upcoming marketing campaign.
